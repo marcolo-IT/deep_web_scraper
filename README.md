@@ -13,3 +13,9 @@ This script will perform the following steps:
 
 3. Go through each link in the list and save them as html offline
 
+# Threat hunt strategy
+
+- Enter attack terms along with your organization name or a term that you know only your organization uses
+- Target forums
+- Ask for sample data to verify its validity
+- Blend into the community
