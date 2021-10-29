@@ -6,7 +6,7 @@ By default, I am using ahmia as the search engine. Just need to change the first
 
 This script will perform the following steps:
 
-1. Using the given deep web search engine site, input keyword to search for onion links
+1. Using the given deep web search engine site, input keyword and time period to search for onion links
   >> Use deep_scraper.py if your search engine can be found on clear web. Otherwise, use deep_scraper_onion.py 
 
 2. Use Regex to extract all .onion links and put them in a list
